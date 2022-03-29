@@ -193,8 +193,8 @@
     width: 50%;
     height: 60vh;
     max-width: 65%;
-
     padding-bottom: 25px;
+    min-width: 300px;
 }
 
 .conteudo-rodape ul{
@@ -206,5 +206,3 @@
     text-decoration: none;
     color: white;
 }
-
-
