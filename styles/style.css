@@ -165,6 +165,8 @@
     font-family: 'Montserrat';
     max-height: 120px;
     max-width: 75vw;
+    min-width: 150px;
+    min-height: 45px;
     width: 300px;
     height: 80px;
 }
