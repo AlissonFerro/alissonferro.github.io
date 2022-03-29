@@ -185,13 +185,15 @@
 }
 
 .conteudo-main .video h2{
-    text-align: start;
+    text-align: center;
     padding: 10px 0px;
 }
 
 .conteudo-main .video iframe{
-    width: 100%;
+    width: 50%;
     height: 60vh;
+    max-width: 65%;
+
     padding-bottom: 25px;
 }
 
