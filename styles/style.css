@@ -66,6 +66,7 @@
     color: white;
     display: flex;
     flex-direction: column;
+    padding-top: 130px;
 }
 
 .conteudo-main .conteudo-inicial h2{
@@ -75,8 +76,9 @@
 
 .conteudo-main .conteudo-inicial p{
     text-align: justify;
-    align-items: center;
-    margin-top: 3rem;
+    align-self: flex-end;
+    margin-top: 2rem;
+    max-width: 60vw;
 }
 
 .conteudo-main .conteudo-cartao{
@@ -94,13 +96,14 @@
 
 .conteudo-main .conteudo-cartao h2{
     text-align: start;
-    margin-top: 5rem;
 }
 
 .conteudo-main .conteudo-cartao p{
     text-align:  justify;
     align-items: center;
-    margin-top: 3rem;
+    align-self: flex-start;
+    margin-top: 2rem;
+    max-width: 60vw;
 }
 
 .conteudo-main .conteudo-poupanca{
@@ -118,13 +121,14 @@
 
 .conteudo-main .conteudo-poupanca h2{
     text-align: end;
-    margin-top: 5rem;
 }
 
 .conteudo-main .conteudo-poupanca p{
     text-align:  justify;
     align-items: center;
-    margin-top: 3rem;
+    margin-top: 2rem;
+    align-self: flex-end;
+    max-width: 60vw;
 }
 
 .conteudo-formulario{
