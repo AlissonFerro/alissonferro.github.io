@@ -71,7 +71,7 @@
 
 .conteudo-main .conteudo-inicial h2{
     text-align: end;
-    margin-top: 5rem;
+    margin-top: 1rem;
 }
 
 .conteudo-main .conteudo-inicial p{
@@ -96,6 +96,7 @@
 
 .conteudo-main .conteudo-cartao h2{
     text-align: start;
+    margin-top: 2rem;
 }
 
 .conteudo-main .conteudo-cartao p{
@@ -121,6 +122,7 @@
 
 .conteudo-main .conteudo-poupanca h2{
     text-align: end;
+    margin-top: 2rem;
 }
 
 .conteudo-main .conteudo-poupanca p{
